@@ -2,6 +2,8 @@
 
 An iOS central for the Sensei temperature sensor: https://github.com/Sam-Meech-Ward/Sensei-Peripheral-JS
 
+**You must run this on a real iPhone, not the simulator!**
+
 ## TemperatureDetector
 
 The `TemperatureDetector` class contains all the magic for this app.
